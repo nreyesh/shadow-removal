@@ -2,7 +2,6 @@ dataset
 G16
 dataset
 .DS_Store
-models
 trained_models
 .ipynb_checkpoints
 __pycache__
