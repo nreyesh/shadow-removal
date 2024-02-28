@@ -1,7 +1,8 @@
-*.csv
-*.pdf
-data
+dataset
 G16
-manejo-sombra
-foto_scraper.ipynb
+dataset
 .DS_Store
+models
+trained_models
+.ipynb_checkpoints
+__pycache__
